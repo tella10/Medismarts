@@ -1,0 +1,13 @@
+{
+  "ConnectionStrings": {
+    "MedismartConnectionString" :  "server=(localdb)\\ProjectsV13;Database=MedismartDb;Integrated Security=true;"
+  },
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ]
+}
